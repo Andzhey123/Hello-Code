@@ -1,0 +1,15 @@
+C:\Users\aa.beginov\Documents\Examples\Example001_HelloCinsole\bin\Debug\net6.0\Example001_HelloCinsole.exe
+C:\Users\aa.beginov\Documents\Examples\Example001_HelloCinsole\bin\Debug\net6.0\Example001_HelloCinsole.deps.json
+C:\Users\aa.beginov\Documents\Examples\Example001_HelloCinsole\bin\Debug\net6.0\Example001_HelloCinsole.runtimeconfig.json
+C:\Users\aa.beginov\Documents\Examples\Example001_HelloCinsole\bin\Debug\net6.0\Example001_HelloCinsole.dll
+C:\Users\aa.beginov\Documents\Examples\Example001_HelloCinsole\bin\Debug\net6.0\Example001_HelloCinsole.pdb
+C:\Users\aa.beginov\Documents\Examples\Example001_HelloCinsole\obj\Debug\net6.0\Example001_HelloCinsole.csproj.AssemblyReference.cache
+C:\Users\aa.beginov\Documents\Examples\Example001_HelloCinsole\obj\Debug\net6.0\Example001_HelloCinsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aa.beginov\Documents\Examples\Example001_HelloCinsole\obj\Debug\net6.0\Example001_HelloCinsole.AssemblyInfoInputs.cache
+C:\Users\aa.beginov\Documents\Examples\Example001_HelloCinsole\obj\Debug\net6.0\Example001_HelloCinsole.AssemblyInfo.cs
+C:\Users\aa.beginov\Documents\Examples\Example001_HelloCinsole\obj\Debug\net6.0\Example001_HelloCinsole.csproj.CoreCompileInputs.cache
+C:\Users\aa.beginov\Documents\Examples\Example001_HelloCinsole\obj\Debug\net6.0\Example001_HelloCinsole.dll
+C:\Users\aa.beginov\Documents\Examples\Example001_HelloCinsole\obj\Debug\net6.0\refint\Example001_HelloCinsole.dll
+C:\Users\aa.beginov\Documents\Examples\Example001_HelloCinsole\obj\Debug\net6.0\Example001_HelloCinsole.pdb
+C:\Users\aa.beginov\Documents\Examples\Example001_HelloCinsole\obj\Debug\net6.0\Example001_HelloCinsole.genruntimeconfig.cache
+C:\Users\aa.beginov\Documents\Examples\Example001_HelloCinsole\obj\Debug\net6.0\ref\Example001_HelloCinsole.dll
